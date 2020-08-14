@@ -1,5 +1,5 @@
 _repo: Valkoinen-villakoira-ym-kertomuksia_62836
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kaila, Toivo T.
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52036'
     url: http://www.gutenberg.org/2009/agents/52036
     wikipedia: https://fi.wikipedia.org/wiki/Toivo_T._Kaila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1552
     wikipedia: https://en.wikipedia.org/wiki/Aleksandr_Kuprin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62836#Valkoinen-villakoira-ym-kertomuksia
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
