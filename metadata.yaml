@@ -1,0 +1,44 @@
+_repo: Valkoinen-villakoira-ym-kertomuksia_62836
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kaila, Toivo T.
+    aliases:
+    - Kaila, Toivo Torsten
+    - Johansson, Toivo Torsten
+    birthdate: 1884
+    deathdate: 1961
+    gutenberg_agent_id: '52036'
+    url: http://www.gutenberg.org/2009/agents/52036
+    wikipedia: https://fi.wikipedia.org/wiki/Toivo_T._Kaila
+creator:
+  author:
+    agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
+    aliases:
+    - Koeprin, Alexander I.
+    - Kuprin, Alexander
+    - Куприн, Александр Иванович
+    - Kuprin, Aleksandr Ivanovich
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '1552'
+    url: http://www.gutenberg.org/2009/agents/1552
+    wikipedia: https://en.wikipedia.org/wiki/Aleksandr_Kuprin
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62836'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- !lcsh 'Short stories, Russian -- Translations into Finnish'
+- GITenberg
+tableOfContents: A. Kuprin -- Valkoinen villakoira -- Koiran onni -- Eläinnäyttelyssä
+  -- Norsu -- Joella.
+title: Valkoinen villakoira y.m. kertomuksia
+url: http://www.gutenberg.org/ebooks/62836
